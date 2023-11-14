@@ -16,18 +16,18 @@
 
 ## [1장 - 오브젝트와 의존관계](https://github.com/jjunhyeon/toby-spring/blob/master/chapter1/readme.md)
 
-## [2장 - 테스트](chapter02)
+## [2장 - 테스트](https://github.com/jjunhyeon/toby-spring/blob/master/chapter2/readme.md)
 
-## [3장 - 템플릿](chapter03)
+## [3장 - 템플릿](https://github.com/jjunhyeon/toby-spring/blob/master/chapter3/readme.md)
 
-## [4장 - 예외](chapter04)
+## [4장 - 예외](https://github.com/jjunhyeon/toby-spring/blob/master/chapter4/readme.md)
 
-## [5장 - 서비스 추상화](chapter05)
+## [5장 - 서비스 추상화](https://github.com/jjunhyeon/toby-spring/blob/master/chapter5/readme.md)
 
-## [6장 - AOP](chapter06)
+## [6장 - AOP](https://github.com/jjunhyeon/toby-spring/blob/master/chapter6/readme.md)
 
-## [7장 - 스프링 핵심 기술의 응용](chapter07)
+## [7장 - 스프링 핵심 기술의 응용](https://github.com/jjunhyeon/toby-spring/blob/master/chapter7/readme.md)
 
-## [8장 - 스프링이란 무엇인가](chapter08)
+## [8장 - 스프링이란 무엇인가](https://github.com/jjunhyeon/toby-spring/blob/master/chapter8/readme.md)
 
-## [9장 - 스프링 프로젝트 시작하기](chapter09)
+## [9장 - 스프링 프로젝트 시작하기](https://github.com/jjunhyeon/toby-spring/blob/master/chapter9/readme.md)
